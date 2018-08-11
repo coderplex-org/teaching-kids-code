@@ -1,4 +1,4 @@
-# teaching-kids-code program details 
+# Teaching Kids Code Program Details 
 
 Time period : 2-3 months
 

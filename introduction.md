@@ -1,6 +1,6 @@
 # Week 01 - Introduction 
 
-##Goals 
+### Goals 
 - Gain insights about the kids, 
 - Establish context for the program,
 - Inspire them, to look forward for the next session
@@ -28,7 +28,7 @@ computers exist in the first place, but in a very story-like fashion.
 ### Analogies 
 - Connecting the Moonlanding Story to how computers were helpful in making that possible
 
-## Ideas
+### Ideas
 - Personally interacting with kids who are not engaging actively, to make them feel comfortable and personally make sure that 
 they are able to learn and progress 
 - Talking about code as a superpower, or a tool similar to paint, that can be used to create things

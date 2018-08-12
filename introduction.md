@@ -38,9 +38,6 @@ greet your friends (function concept), etc
 
 We will encourage students to contribute answers and build from that.
 
-(We need a wide range of examples here, so that we can alter our examples based on the
-results of the survey.)
-
 ### History of CS
 Description : Walk the kids through the history of computers, to answer questions like
 - Why were computers invented?
@@ -49,26 +46,27 @@ Description : Walk the kids through the history of computers, to answer question
 The goal here is to establish the context of why computers exist in the first place, but in a very story-like fashion,
 with slides/pictures/video.
 
-- Analogy between humans solving a problem and computers based on the unplugged exercise.
-This transitions naturally to why we need computers in the first place.
-- Man had aids to computing - abacus, Pascal's adding machine,etc. They aren't computers
-    in that they can't be programmed, they were like tools that helped to make computing
-    easier. Human computers.
-- Babbage's need for a computer to automate navigation log tables. This design was the
-    first programmable computer.
-- The design was finally implemented in Mark I to Mark IV
-- Colossus at Bletchley Park at World War II
-- Minicomputers => PC (present  day) => Tabs/Smartphones
-
+1. Expand on the analogies below
 
 ### Analogies (examples of events in the 20th century that were advanced by computers)
+(We need a wide range of examples here, so that we can alter our examples based on the
+results of the survey.)
 Space:
 - Connecting the Moonlanding Story to how computers were helpful in making that possible.
-Science:
-- LHC - Splitting the atom
 Film Industry:
 - Computers were used to create animated movies - e.g. Winnie the Pooh, Bugs Bunny, Scooby Doo movies
   were made in the late 70s
+Science (*Debatable*):
+  - LHC - Splitting the atom
+
+2. Generations of computers - from Mainframes => Minicomputers => PC (present  day) => Tabs/Smartphones
+
+Other ideas -
+- Analogy between humans solving a problem and computers based on the unplugged exercise.
+  This transitions naturally to why we need computers in the first place.
+- Man had aids to computing - abacus, Pascal's adding machine,etc. They aren't computers
+  in that they can't be programmed, they were like tools that helped to make computing
+  easier. Human computers.
 
 
 ### Ideas

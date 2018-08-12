@@ -30,6 +30,7 @@ What we expect more or less - get up => brush => shower =>
 breakfast => wait for the right bus (loops/conditionals) => get to class =>
 greet your friends (function concept), etc
 
+(For students)
 *Example#2*
 - Planning a birthday party for a friend. <TODO: @Madhu94 add a short description>
 
@@ -56,8 +57,6 @@ Space:
 Film Industry:
 - Computers were used to create animated movies - e.g. Winnie the Pooh, Bugs Bunny, Scooby Doo movies
   were made in the late 70s
-Science (*Debatable*):
-  - LHC - Splitting the atom
 
 2. Generations of computers - from Mainframes => Minicomputers => PC (present  day) => Tabs/Smartphones
 

@@ -1,6 +1,6 @@
 # Week 02 - Introduction to programming
 
-## More on coding concepts (45 mins)
+## Variables, Constants, Flow charts (45 mins)
 
 1. Review last lesson - what is an algorithm, what is code, what is coding (5)
 2. Revisit the block diagram of a computer and explain how the above 
@@ -11,10 +11,7 @@
   2. l*b (CPU)
   3. print result (Output - ask to name an example?)
 
-Workbook (10 - total discussion)
-1. Write algorithm to solve (a*b)+c and map each statement to block of computer that performs it.
-2. In (a*b)+c's form, pick out the variables and constants. 
-(At this point we can stop and review variables and constants **if** needed)
+Workbook (10 - total discussion) - 1,2
 
 3. Variables! (10)
 Question - Where do you think l,b are stored in the computer?
@@ -33,10 +30,7 @@ draw boxes in memory while writing algorithm)
 
 **TODO**: Example from morning routine with variables?
 
-Workbook (5 - total discussion)
-1. Rewrite same algorithm, but with a step to assign value of a and b.
-2. In the given algorithm to compute the area  and perimeter of a square,
-identify the variables and constants.
+Workbook (5 - total discussion) 3,4
 
 
 4. Flow Chart. (5)
@@ -50,13 +44,13 @@ in following lessons.
 - Write algorithms with more clarity/rigor than in week1
 - Some terminology - variables, constants. 
 - Identify use of variables 
-- Learn to draw flow charts
+- Learn to draw flow charts, which are useful for visualizing control flow.
 
 ### Ideas
 - We may want to start some kind of evaluation/feedback loop this week
   to find out how the students are learning.
 - Add a summary of the week's concepts in the workbook so that students 
-  don't need to spend a lot of time taking notes. 
+  don't need to spend a lot of time taking notes.
 - We can include learning resources from Khanacademy or Code.org and ask the students 
 to explore them in the following week. (This will help pave the way for a flipped classroom model later on). We can try to find free resources that can be downloaded and 
 stored in the computers so that students without internet connection can access.
